@@ -31,7 +31,7 @@
     <key>PayloadIdentifier</key>
     <string>com.profile.system.locket</string>
     <key>PayloadOrganization</key>
-    <string>Xwuan</string>
+    <string>Xwuan-DNS</string>
     <key>PayloadRemovalDisallowed</key>
     <false/>
     <key>PayloadType</key>
